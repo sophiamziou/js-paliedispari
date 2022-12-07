@@ -8,10 +8,10 @@ function palindroma(parl){
     return parola2;
 }
 
-if (parolaInvertita === parola){
-    console.log('la parola è palindroma')
+if (parolaInvertita == parola){
+    console.log('la parola è palindroma');
 }
 
 else{
-    console.log('la parola non è palindroma')
+    console.log('la parola non è palindroma');
 }
